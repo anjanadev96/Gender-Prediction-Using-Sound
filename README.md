@@ -1,2 +1,3 @@
-# gender_prediction_using_sound
+# Gender Prediction of NYT authors using the fuzzy package. 
+# Libraries used: fuzzy, scikit-learn, pandas, numpy
  
